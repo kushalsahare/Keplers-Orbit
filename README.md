@@ -4,5 +4,5 @@ This is the famous comet problem solved using five different schemes viz., Euler
 
 The initial position is as shown below:
 
-![intial position](./Cometproblem.jpeg "Initial position")
+![intial position](./Cometproblem.jpg "Initial position")
 
