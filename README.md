@@ -29,7 +29,7 @@ Following figure shows the solution using Eulers method
 ![AB4PC Method](./PredictorCorrector.jpg "AB4PC Method")
 
 
-## 50 periods of RK4
+## 50 periods of RK4 with steps=2^10: Effect of step size
 
 ![RK4 50period](./50period.jpg "RK4_50")
 
